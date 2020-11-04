@@ -1,0 +1,6 @@
+name: cyto
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+prefix: /home/dnousome/miniconda3/envs/cyto
